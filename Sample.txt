@@ -1,4 +1,4 @@
 this is sample file
-#1. This change is from feature1 and feature2 branch
+#1. This change is from feature1 and feature2 branch2
 #2. this change is from feature2 branch
 
